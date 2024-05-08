@@ -26,9 +26,9 @@ In the era of contactless technology, the Smart Dustbin aims to reduce touchpoin
 - Arduino IDE (for programming the Arduino)
 
 ## Circuit Diagram
-Below is the circuit diagram for the Smart Dustbin:
+Circuit diagram is given in the assets folder
 
-
+Connection Procedure :
 
 - The ultrasonic sensor's `echo` and `trig` pins connect to Arduino Uno's pins 5 and 6, respectively.
 - The sensor's `VCC` connects to Arduino's 5V, and its `GND` connects to Arduino's `GND`.
