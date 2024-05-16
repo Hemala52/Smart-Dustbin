@@ -2,6 +2,9 @@
 
 Welcome to the Smart Dustbin project! This project demonstrates how to build a smart dustbin using an Arduino Uno, an ultrasonic sensor, and a micro servo motor. The dustbin opens its lid automatically when it detects an object nearby, using ultrasonic sensor technology, and then closes after a set period.
 
+![Smart Dustbin](https://github.com/Hemala52/Smart-Dustbin/blob/master/smart%20dustbin.jpg?raw=true)
+
+
 ## Table of Contents
 - Introduction
 - Hardware Components
